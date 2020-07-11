@@ -5,7 +5,7 @@ spoiler: A stats-told story of how liverpool edged the greatest race of the Prem
 cta: matplotlib meets football
 colab_link: https://colab.research.google.com/github/devinpleuler/analytics-handbook/blob/master/notebooks/data_extraction_and_transformation.ipynb
 ---
-Less than 3 years ago, Jurgen Klopp fielded a back five that comprised Simone Mignolet, Dejan Lovren, Joel Matip, Alberto Moreno and non specialist Joe Gomez at right back on a premier league visit to Wembley. [The result on the day](https://twitter.com/guardian_sport/status/922180812770041858) seems like a very distant memory now.
+Less than 3 years ago, Jurgen Klopp fielded a back five that comprised Simon Mignolet, Dejan Lovren, Joël Matip, Alberto Moreno and non specialist Joe Gomez at right back on a premier league visit to Wembley. [The result on the day](https://twitter.com/guardian_sport/status/922180812770041858) seems like a very distant memory now.
 
 **And despite we all knowing how Liverpool have fared since then, this is one more attempt at telling the story.**
 
@@ -20,8 +20,8 @@ Andrew Roberton was meanwhile evolving slowly from an understudy to Alberto More
 
 By GW15 this season, liverpool were already 11 points ahead of Man City. Then, followed a run of games where Alisson kept 10 clean sheets out of a possible 11 extending the gap to 18 points. **At that point**:
 
->1. Man City had scored 6 goals more than Liverpool'd managed but conceded 14 more.
->2. Liverpool had conceded SIXTEEN goals less than they had, just 2 seasons before.
+1. Man City had scored 6 goals more than Liverpool'd managed but conceded 14 more.
+2. Liverpool had conceded SIXTEEN goals less than they had, just 2 seasons before.
 
 The competition was all but over.
 
@@ -47,16 +47,15 @@ Even if somehow you're able to get a good shot on target against liverpool (and 
 2. Those liverpool supporters are right about Adrian. Adrian (1.03) conceded a significantly larger amount of goals that Alisson(0.66) allows per game. This ratio was almost 2:1 before City's recent thrashing of the reds. Adrian has a lower saver percentage and almost half the Clean Sheet Ratio that Klopp has come to expect under Alisson.
 3. Hugo Lloris is an absolute beast. His goals saved are now up to 9, leading the league despite missing out on most of the season before lockdown with injury. Tottenham's very shaky backline, of course, contributes to this very weird outlier.
 
-**So goals saved and goals conceded set City and Liverpool apart. Liverpools playmaking fullbacks set City and Liverpool apart.**
+**So goals saved and goals conceded set City and Liverpool apart. Liverpool's playmaking fullbacks set City and Liverpool apart.**
 
 Nabi Keita or ['Nabi lad'](https://twitter.com/LFC/status/1252612555354312705) is yet to get a consistent spell of starting XI football. He's the one player in the squad who'd you expect the most improvement of. That along with the imminent signing of Thiago Alcantara promises a lot of choice for Liverpool's midfield which's arguably at times liverpool's weakest link. Keeping these two fit will be key to introducing more playmaking solutions from the side's midfield.
 
-The 2020/2021 season will surely be unique in multiple dimensions, but Guardiola will have to look to bridge the gap between his side's defending and that of their Merseyside rivals.
+The 2020/2021 season will surely be unique across multiple dimensions, but Guardiola will have to look to bridge the gap between his side's defending and that of their Merseyside rivals.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Stan Collymore “If Pep thinks he doesn’t need to teach tackling or 1-on-1 combat in training then he’ll be going back to Spain with his tail between his legs”<br><br>Pep &quot;I don&#39;t train the tackles. What I want is to try to play good and score goals and arrive more, so what&#39;s tackles?&quot; <a href="https://t.co/BcjoXg307c">pic.twitter.com/BcjoXg307c</a></p>&mdash; The Pep (@GuardiolaTweets) <a href="https://twitter.com/GuardiolaTweets/status/1128406265980497928?ref_src=twsrc%5Etfw">May 14, 2019</a></blockquote>
 
 Is it time for Guardiola to start "training the tackles"?
-
 
 ----
 Data is by [FBRef](https://fbref.com) and their partner [Statsbomb](https://statsbomb.com).
