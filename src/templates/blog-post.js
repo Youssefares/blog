@@ -165,6 +165,12 @@ class BlogPostTemplate extends React.Component {
                 {formatPostDate(post.frontmatter.date, lang)}
                 {` • ${formatReadingTime(post.timeToRead)}`}
               </p>
+              <a
+                style={{ textDecoration: 'none', boxShadow: 'none' }}
+                href={post.frontmatter.colab_link}
+              >
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+              </a>
               {translations.length > 0 && (
                 <Translations
                   translations={translations}
@@ -194,9 +200,7 @@ class BlogPostTemplate extends React.Component {
               margin: '90px 0 40px 0',
               fontFamily: systemFont,
             }}
-          >
-            <Signup cta={post.frontmatter.cta} />
-          </div>
+          ></div>
           <h3
             style={{
               fontFamily: 'Montserrat, sans-serif',
@@ -270,6 +274,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         spoiler
         cta
+        colab_link
       }
       fields {
         slug
