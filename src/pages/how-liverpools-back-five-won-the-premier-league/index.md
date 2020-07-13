@@ -23,7 +23,9 @@ By GW15 this season, liverpool were already 11 points ahead of Man City. Then, f
 1. Man City had scored 6 goals more than Liverpool'd managed but conceded 14 more.
 2. Liverpool had conceded SIXTEEN goals less than they had, just 2 seasons before.
 
-The competition was all but over. If city had any chance of recovering from their shaky start, Liverpool's defence had to be a lot worse.
+Of course, Liverpool's defensive improvement is not a 19/20 phenomenon. In fact, they already conceded more this season with games still left to play. However that run of 11 games, came late in the first half of the season and continued up until the 25th gameweek, coinciding with the same fixtures where Liverpool lost their lead to city in 18/19. Liverpool dropped seven points with a loss at Manchester City in early January and two back to back draws against Leicester and West Ham 3 fixtures later. 
+
+19/20 tells a different story as Liverpool held on and kept that same period eventless. Competition was all but over. If city had any chance of recovering from their shaky start, Liverpool's defence had to be a lot worse than they have been.
 
 ## Flying fullbacks
 Kevin De Bruyne leads the league in [Assists/90](https://www.dailymail.co.uk/sport/football/article-8505971/Its-Kevin-Bruyne-vs-Thierry-Henry-emerge-time-assist-king.html). He also leads the league in [xA](https://www.youtube.com/watch?v=H4kNa1cUvZM)/90, Goals+Assists/90  & Key Passes and is second in Goal Creating Actions/90 only to teammate Riyad Mahrez. It's only logical oppositions will look to shut down the Belgian and that Man City's gradual dependence on his creativity will ultimately hurt them. Easier said than done, though. Man City's gap to Liverpool can't, in any way, be accredited to a lack of creativity. 
