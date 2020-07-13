@@ -23,7 +23,9 @@ By GW15 this season, liverpool were already 11 points ahead of Man City. Then, f
 1. Man City had scored 6 goals more than Liverpool'd managed but conceded 14 more.
 2. Liverpool had conceded SIXTEEN goals less than they had, just 2 seasons before.
 
-Of course, Liverpool's defensive improvement is not a 19/20 phenomenon. In fact, they already conceded more this season with games still left to play. However that run of 11 games, came late in the first half of the season and continued up until the 25th gameweek, coinciding with the same fixtures where Liverpool lost their lead to city in 18/19. Liverpool dropped seven points with a loss at Manchester City in early January and two back to back draws against Leicester and West Ham 3 fixtures later. 
+Of course, Liverpool's defensive improvement is not a 19/20 phenomenon. In fact, they already conceded more this season with games still left to play. But that run of 11 games remains very interesting though as it came late in the first half of the season and continued up until the 25th gameweek. It's the same run of gameswhere Liverpool lost their lead to city last season. 
+
+Liverpool dropped seven points with a loss at Manchester City in early January and two back to back draws against Leicester and West Ham 3 fixtures later. 
 
 19/20 tells a different story as Liverpool held on and kept that same period eventless. Competition was all but over. If city had any chance of recovering from their shaky start, Liverpool's defence had to be a lot worse than they have been.
 
