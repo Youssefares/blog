@@ -10,11 +10,11 @@ Less than 3 years ago, Jurgen Klopp fielded a back five that comprised Simon Mig
 **And despite we all knowing how Liverpool have fared since then, this is one more attempt at telling the story.**
 
 ## Title-winning Defence
-As Mauricio Pochettino struggled to make a midfield pair out of Harry Winks and "failed signing" Moussa Sissoko, Liverpool went on to spend 75 million pound to sign [a certain Dutch center half](https://www.bbc.com/sport/football/42496637).
+As Mauricio Pochettino struggled to make a midfield pair out of Harry Winks and "failed signing" Moussa Sissoko, Liverpool went on to spend 75 million pounds to sign [a certain Dutch center half](https://www.bbc.com/sport/football/42496637).
 
-A few months afterwards, Trent Alexander-Arnold showed his worth nullifying Leroy Sane as Liverpool knocked Man City out of the champions league and became the youngest liverpool player to ever start [a champions league final](https://twitter.com/Football__Tweet/status/1252504845464088577).
+A few months afterwards, Trent Alexander-Arnold showed his worth, nullifying Leroy Sane as Liverpool knocked Man City out of the champions league, and became the youngest liverpool player to ever start [a champions league final](https://twitter.com/Football__Tweet/status/1252504845464088577).
 
-Andrew Roberton was meanwhile evolving slowly from an understudy to Alberto Moreno to the teams first choice left back and Karius' mistakes were enough to warrant a £66.9m investment in now liverpool first choice goalkeeper Alisson Becker.
+Andrew Roberton was meanwhile evolving slowly from an understudy to Alberto Moreno to the teams first choice left back and Karius' mistakes were enough to warrant a £66.9m investment in, now liverpool first choice goalkeeper, Alisson Becker.
 
 ![Liverpool's defensive improvement](./Liverpool defence.png)
 
@@ -23,18 +23,18 @@ By GW15 this season, liverpool were already 11 points ahead of Man City. Then, f
 1. Man City had scored 6 goals more than Liverpool'd managed but conceded 14 more.
 2. Liverpool had conceded SIXTEEN goals less than they had, just 2 seasons before.
 
-The competition was all but over.
+The competition was all but over. If city had any chance of recovering from their shaky start, Liverpool's defence had to be a lot worse.
 
 ## Flying fullbacks
-Kevin De Bruyne leads the league in [Assists/90](https://www.dailymail.co.uk/sport/football/article-8505971/Its-Kevin-Bruyne-vs-Thierry-Henry-emerge-time-assist-king.html). He also leads the league in [xA](https://www.youtube.com/watch?v=H4kNa1cUvZM)/90, Goals+Assists/90  & Key Passes and is second in Goal Creating Actions/90 only to teammate Riyad Mahrez. It's only logical oppositions will look to shut down the Belgian and Man City's gradual dependence on his creativity will ultimately hurt them.
+Kevin De Bruyne leads the league in [Assists/90](https://www.dailymail.co.uk/sport/football/article-8505971/Its-Kevin-Bruyne-vs-Thierry-Henry-emerge-time-assist-king.html). He also leads the league in [xA](https://www.youtube.com/watch?v=H4kNa1cUvZM)/90, Goals+Assists/90  & Key Passes and is second in Goal Creating Actions/90 only to teammate Riyad Mahrez. It's only logical oppositions will look to shut down the Belgian and that Man City's gradual dependence on his creativity will ultimately hurt them. Easier said than done, though. Man City's gap to Liverpool can't, in any way, be accredited to a lack of creativity. 
 
-Liverpool had a difference source of creativity this season and two fullbacks who've edged their Man City counterparts by miles in terms of passing the ball.
+Liverpool, though, have bettered their rivals in playmaking diversity. They had a difference source of creativity this season and two fullbacks who've edged their Man City counterparts by miles in terms of passing the ball.
 
 ![Liverpool fullbacks](./Fullbacks final tight.png)
 
 TAA's passing output alone's been surpassing the sum of both of Man City's fullbacks. Meanwhile, Andrew Robertson's been himself an unsung playmaker, having just registered his 20th assist over 2 seasons against Brighton.
 
-It's no surprise that Atletico Madrid posed a very strong challenge to liverpool in the champions league. Atletico madrid two banks of four could on their day nullify any pair of wingbacks or fullbacks, but while on the subject, liverpool fans have been very vocal about Adrian's contributions to their early exit. Are they right?
+It's no surprise that Atletico Madrid posed a very strong challenge to liverpool in the champions league. Atletico madrid'stwo banks of four could on their day nullify any pair of wingbacks or fullbacks, but while on the subject, liverpool fans have been very vocal about Adrian's contributions to their early exit. Are they right?
 
 ## The last wall standing that is Alisson Becker
 Even if somehow you're able to get a good shot on target against liverpool (and [a look at the numbers](https://twitter.com/rogue_wee/status/1224662330820169728) say that's very difficult), You're still tasked with beating a very devastating Alisson Becker.
