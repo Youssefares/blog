@@ -17,8 +17,8 @@ import {
   replaceAnchorLinksByLanguage,
 } from '../utils/i18n';
 
-const GITHUB_USERNAME = 'gaearon';
-const GITHUB_REPO_NAME = 'overreacted.io';
+const GITHUB_USERNAME = 'youssefares';
+const GITHUB_REPO_NAME = 'matplotflick.io';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
@@ -169,7 +169,10 @@ class BlogPostTemplate extends React.Component {
                 style={{ textDecoration: 'none', boxShadow: 'none' }}
                 href={post.frontmatter.colab_link}
               >
-                <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+                <img
+                  id="colab"
+                  src="https://colab.research.google.com/assets/colab-badge.svg"
+                />
               </a>
               {translations.length > 0 && (
                 <Translations

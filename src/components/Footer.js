@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from '../assets/resume.pdf';
 
 import { rhythm } from '../utils/typography';
 
@@ -17,7 +18,7 @@ class Footer extends React.Component {
           </a>
         </div>
         <a
-          href="https://mobile.twitter.com/dan_abramov"
+          href="https://mobile.twitter.com/youssefares"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -25,19 +26,15 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://github.com/gaearon"
+          href="https://github.com/youssefares"
           target="_blank"
           rel="noopener noreferrer"
         >
           github
         </a>{' '}
         &bull;{' '}
-        <a
-          href="https://stackoverflow.com/users/458193/dan-abramov"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          stack overflow
+        <a href={resume} target="_blank" rel="noopener noreferrer">
+          hire me!
         </a>
       </footer>
     );
