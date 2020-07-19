@@ -143,7 +143,6 @@ class BlogPostTemplate extends React.Component {
     const image = post.frontmatter.ogimg
       ? post.frontmatter.ogimg.childImageSharp.resize
       : null;
-
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
