@@ -26,7 +26,6 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
       render={data => {
         const { siteMetadata } = data.site;
         const metaDescription = description || siteMetadata.description;
-        const metaImage = `${siteMetadata.siteUrl}${image.childImageSharp.fixed.src}`;
         const url = `${siteMetadata.siteUrl}${slug}`;
         return (
           <Helmet
@@ -74,15 +73,15 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
               },
             ]
               .concat(
-                metaImage
+                image
                   ? [
                       {
                         property: 'og:image',
-                        content: metaImage,
+                        fluid: image,
                       },
                       {
                         name: 'twitter:image',
-                        content: metaImage,
+                        fluid: image,
                       },
                     ]
                   : []

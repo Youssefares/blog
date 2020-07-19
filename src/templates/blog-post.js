@@ -147,7 +147,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.spoiler}
           slug={post.fields.slug}
-          image={post.frontmatter.ogimg}
+          image={post.frontmatter.ogimg.childImageSharp.fluid}
         />
         <main>
           <article>
@@ -281,8 +281,8 @@ export const pageQuery = graphql`
         colab_link
         ogimg {
           childImageSharp {
-            fixed {
-              src
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
