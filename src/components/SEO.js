@@ -19,13 +19,24 @@ const query = graphql`
   }
 `;
 
-function SEO({ meta, image, title, description, slug, lang = 'en' }) {
+function SEO({
+  meta,
+  image: metaImage,
+  title,
+  description,
+  slug,
+  lang = 'en',
+}) {
   return (
     <StaticQuery
       query={query}
       render={data => {
         const { siteMetadata } = data.site;
         const metaDescription = description || siteMetadata.description;
+        const image =
+          metaImage && metaImage.src
+            ? `${siteMetadata.siteUrl}${metaImage.src}`
+            : null;
         const url = `${siteMetadata.siteUrl}${slug}`;
         return (
           <Helmet
@@ -73,18 +84,31 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
               },
             ]
               .concat(
-                image
+                metaImage
                   ? [
                       {
                         property: 'og:image',
-                        fluid: image,
+                        content: image,
                       },
                       {
-                        name: 'twitter:image',
-                        fluid: image,
+                        property: 'og:image:width',
+                        content: metaImage.width,
+                      },
+                      {
+                        property: 'og:image:height',
+                        content: metaImage.height,
+                      },
+                      {
+                        name: 'twitter:card',
+                        content: 'summary_large_image',
                       },
                     ]
-                  : []
+                  : [
+                      {
+                        name: 'twitter:card',
+                        content: 'summary',
+                      },
+                    ]
               )
               .concat(meta)}
           />

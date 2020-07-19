@@ -140,6 +140,10 @@ class BlogPostTemplate extends React.Component {
       `https://overreacted.io${enSlug}`
     )}`;
 
+    const image = post.frontmatter.ogimg
+      ? post.frontmatter.ogimg.childImageSharp.resize
+      : null;
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -147,7 +151,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.spoiler}
           slug={post.fields.slug}
-          image={post.frontmatter.ogimg.childImageSharp.fluid}
+          image={image}
         />
         <main>
           <article>
@@ -281,8 +285,10 @@ export const pageQuery = graphql`
         colab_link
         ogimg {
           childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
+            resize(width: 1200) {
+              src
+              height
+              width
             }
           }
         }
