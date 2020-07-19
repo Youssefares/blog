@@ -66,6 +66,8 @@ With playmakers such as KDB and the high hopes on Foden replacing David Silva, G
 The 2020/2021 season will surely be unique across multiple dimensions, but is it time for Guardiola to start "training the tackles"?
 
 ----
-The data, as usual, is by [FBRef](https://fbref.com) and their partner [Statsbomb](https://statsbomb.com). All plots are created with matplotlib and the code for this post & all future posts is available [here]() or by clicking the Open in Colab button under the title.
+Data is by [FBRef](https://fbref.com) and their partner [Statsbomb](https://statsbomb.com). 
 
-Thank you a lot for reading on. I am going to try to write about football analytics (not exclusively) more regularly again now. If you like what you see, let me know on twitter.
+All plots are created with matplotlib and the code for this post & all future posts is available [here](https://github.com/Youssefares/statshousery/tree/master/notebooks) or by clicking the Open in Colab button under any article's title.
+
+Thank you a lot for reading on. I am going to try to write about football analytics (not exclusively) more regularly again now. If you like what you see, [let me know on twitter](https://mobile.twitter.com/youssefares). See you soon!
