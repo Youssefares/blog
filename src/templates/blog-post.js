@@ -147,6 +147,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.spoiler}
           slug={post.fields.slug}
+          image={post.frontmatter.ogimg}
         />
         <main>
           <article>
@@ -278,6 +279,7 @@ export const pageQuery = graphql`
         spoiler
         cta
         colab_link
+        ogimg
       }
       fields {
         slug

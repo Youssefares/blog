@@ -4,6 +4,7 @@ date: '2020-07-11'
 spoiler: A stats-told story of how liverpool edged the greatest race of the Premier League era.
 cta: matplotlib meets football
 colab_link: https://colab.research.google.com/github/youssefares/statshousery/blob/master/notebooks/Liverpool_(Champions_of_England_2020).ipynb
+ogimg: ./Fullbacks final.png
 ---
 Less than 3 years ago, Jurgen Klopp fielded a back five that comprised Simon Mignolet, Dejan Lovren, Joël Matip, Alberto Moreno and non specialist Joe Gomez at right back on a premier league visit to Wembley. [The result on the day](https://twitter.com/guardian_sport/status/922180812770041858) seems like a very distant memory now.
 
