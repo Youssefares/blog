@@ -279,7 +279,13 @@ export const pageQuery = graphql`
         spoiler
         cta
         colab_link
-        ogimg
+        ogimg {
+          childImageSharp {
+            fixed {
+              src
+            }
+          }
+        }
       }
       fields {
         slug
