@@ -32,9 +32,9 @@ More importantly, It also came late in the first half of the season and continue
 ## Flying fullbacks
 Kevin De Bruyne leads the league in [Assists/90](https://www.dailymail.co.uk/sport/football/article-8505971/Its-Kevin-Bruyne-vs-Thierry-Henry-emerge-time-assist-king.html). He also leads the league in [xA](https://www.youtube.com/watch?v=H4kNa1cUvZM)/90, Goals+Assists/90  & Key Passes and is second in Goal Creating Actions/90 only to teammate Riyad Mahrez. It's only logical oppositions will look to shut down the Belgian and that Man City's gradual dependence on his creativity will ultimately hurt them. Easier said than done, though. Man City's gap to Liverpool can't, in any way, be accredited to a lack of creativity.
 
-Liverpool, though, have bettered their rivals in playmaking diversity. They had a difference source of creativity this season and two fullbacks who've edged their Man City counterparts by miles in terms of passing the ball. 
+Liverpool, though, have bettered their rivals in playmaking diversity. They had a different source of creativity this season and two fullbacks who've edged their Man City counterparts by miles in terms of passing the ball.
 
-Real Madrid's domestic and European success with a similar strategy under Zidane is a huge endorsement of an idea that only one of Englands top two sides succeeded in replicating.
+Real Madrid's domestic and European success with a similar strategy under Zidane is a huge endorsement of an idea that only one of England's top two sides succeeded in replicating.
 
 Carvajal and Marcelo managed 21 assists between them in all competitions under Zidane in 16/17 as they topped the league and thrashed Juventus in the Champions League final. This year, Robbo and Trent have created 23, while Mendy and Walker created 8.
 
