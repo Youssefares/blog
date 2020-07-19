@@ -33,7 +33,7 @@ function SEO({
       render={data => {
         const { siteMetadata } = data.site;
         const metaDescription = description || siteMetadata.description;
-        const image = () =>
+        const image =
           metaImage && metaImage.src
             ? `${siteMetadata.siteUrl}${metaImage.src}`
             : null;
@@ -88,7 +88,7 @@ function SEO({
                   ? [
                       {
                         property: 'og:image',
-                        content: image(),
+                        content: image,
                       },
                       {
                         property: 'og:image:width',
